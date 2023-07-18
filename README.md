@@ -34,6 +34,6 @@ Technologies used in the project:
 *   Some Dependencies: webdrivermanager, selenium-java, selenium-http-jdk-client, testng, rest-assured, allure-testng 
 *   Project Report on testng and allure report
 
-Thank you Hack2Skill for giving me this opportunity to show and deploy our skills.
+Thank you Hack2Skill for giving me this opportunity to showcase my skills.
 
 Special Thanks  😊
