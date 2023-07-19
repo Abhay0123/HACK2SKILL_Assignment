@@ -1,7 +1,7 @@
 <h1 align="center" id="title">HACK2SKILL ASSIGNMENT</h1>
 <h4 align='center'>Selenium Automation</h4>
-<h4>Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.</h4>
-<h2 align="center" id="title">Selenium Automation of herokuapp website</h2>
+<h4>Selenium is a free (open source) automated testing framework used to validate web applications across different browsers and platforms.</h4>
+<h2 align="center" id="title">Selenium Automation of Heroku app website</h2>
 
 <h4 id="description">Heroku is a cloud platform that allows developers to deploy, manage, and scale applications easily. It supports several programming languages such as Ruby, Node.js, Python, Java, and more.
 With Heroku, you can focus on developing your application without worrying about infrastructure setup and maintenance.</h4>
@@ -11,10 +11,16 @@ With Heroku, you can focus on developing your application without worrying about
 
 <h2>Headings Of Test Scenarios</h2>
 <h4># TSc 01: - Access http://the-internet.herokuapp.com/broken_images, validate if there are broken images.</h4>
- 
-<h4># TSc 02: - Access http://the-internet.herokuapp.com/upload and try uploading any file.</h4>
-
-
+  <h4>Tc_01:  - setup driver with implicit wait</h2>
+  <h4>Tc_02: - Count total Image links</h2>
+  <h4>Tc_03: - Print All the Image links </h2>
+  <h4>Tc_04: - Validate first image link with status code</h4>
+  <h4>Tc_05: - Validate second image link with status code</h4>
+  <h4>Tc_06: - Validate third image link with status code</h4>
+  <h4>Tc_07: - Validate forth image link with status code</h4>
+<h3># TSc 02: - Access http://the-internet.herokuapp.com/upload and try uploading any file.</h3>
+  <h4>Tc_01:  - setup driver with implicit wait</h4>
+  <h4>Tc_02: -  Uploading any file by using robot class</h4>
 <h2>Some Screenshots of our Project Reports</h2>
 ## Screenshots
 
