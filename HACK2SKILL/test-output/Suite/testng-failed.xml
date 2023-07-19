@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="hack2skill_assignment_testcases.uploadingAnyFile">
+        <methods>
+          <include name="S_TC_01"/>
+          <include name="uploading_any_file_by_robot_class"/>
+        </methods>
+      </class> <!-- hack2skill_assignment_testcases.uploadingAnyFile -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

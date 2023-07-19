@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T03:43:04 IST" name="Suite" finished-at="2023-07-19T03:44:00 IST" duration-ms="56082">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T03:43:04 IST" name="Test" finished-at="2023-07-19T03:44:00 IST" duration-ms="56082">
+      <class name="hack2skill_assignment_testcases.brokenImages">
+        <test-method is-config="true" signature="S_TC_01()[pri:0, instance:hack2skill_assignment_testcases.brokenImages@1046d517]" started-at="2023-07-19T03:43:04 IST" name="S_TC_01" finished-at="2023-07-19T03:43:20 IST" duration-ms="16292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- S_TC_01 -->
+        <test-method signature="Validate_First_Image_link_with_statusCode()[pri:0, instance:hack2skill_assignment_testcases.brokenImages@1046d517]" started-at="2023-07-19T03:43:26 IST" name="Validate_First_Image_link_with_statusCode" finished-at="2023-07-19T03:43:32 IST" duration-ms="5419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_First_Image_link_with_statusCode -->
+        <test-method signature="Validate_Forth_Image_link_with_statusCode()[pri:0, instance:hack2skill_assignment_testcases.brokenImages@1046d517]" started-at="2023-07-19T03:43:32 IST" name="Validate_Forth_Image_link_with_statusCode" finished-at="2023-07-19T03:43:33 IST" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Forth_Image_link_with_statusCode -->
+        <test-method signature="Validate_Second_Image_link_with_statusCode()[pri:0, instance:hack2skill_assignment_testcases.brokenImages@1046d517]" started-at="2023-07-19T03:43:33 IST" name="Validate_Second_Image_link_with_statusCode" finished-at="2023-07-19T03:43:34 IST" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Second_Image_link_with_statusCode -->
+        <test-method signature="Validate_Third_Image_link_with_statusCode()[pri:0, instance:hack2skill_assignment_testcases.brokenImages@1046d517]" started-at="2023-07-19T03:43:34 IST" name="Validate_Third_Image_link_with_statusCode" finished-at="2023-07-19T03:43:34 IST" duration-ms="734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Third_Image_link_with_statusCode -->
+        <test-method signature="find_all_image_links()[pri:0, instance:hack2skill_assignment_testcases.brokenImages@1046d517]" started-at="2023-07-19T03:43:34 IST" name="find_all_image_links" finished-at="2023-07-19T03:43:35 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- find_all_image_links -->
+      </class> <!-- hack2skill_assignment_testcases.brokenImages -->
+      <class name="hack2skill_assignment_testcases.uploadingAnyFile">
+        <test-method is-config="true" signature="S_TC_01()[pri:0, instance:hack2skill_assignment_testcases.uploadingAnyFile@5a2d131d]" started-at="2023-07-19T03:43:20 IST" name="S_TC_01" finished-at="2023-07-19T03:43:26 IST" duration-ms="6100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- S_TC_01 -->
+        <test-method signature="uploading_any_file_by_robot_class()[pri:0, instance:hack2skill_assignment_testcases.uploadingAnyFile@5a2d131d]" started-at="2023-07-19T03:43:35 IST" name="uploading_any_file_by_robot_class" finished-at="2023-07-19T03:44:00 IST" duration-ms="24974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploading_any_file_by_robot_class -->
+      </class> <!-- hack2skill_assignment_testcases.uploadingAnyFile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
